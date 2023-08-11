@@ -1,0 +1,58 @@
+# Carpetas generadas por IDEs
+.vscode/
+.vs/
+/BlazorDemoApp/bin/
+/BlazorDemoApp/obj/
+.svn/
+.idea/
+
+# Archivos de solución y proyecto
+*.sln
+*.csproj
+*.csproj.user
+
+# Archivos de caché y análisis
+*.cache
+*.log
+*.vspscc
+*.suo
+*.user
+*.vsp
+*.sln.ide
+
+# Archivos temporales
+*.tmp
+*.swp
+*~
+
+# Archivos de configuración local
+*.config
+*.settings
+Web.config
+App.config
+
+# Datos sensibles y secretos
+appsettings*.json
+secrets.json
+
+# Archivos de salida y compilación
+*.dll
+*.exe
+*.pdb
+*.msi
+*.zip
+*.gz
+
+# Archivos de análisis de código
+*.eslintcache
+*.tsconfig.tsbuildinfo
+*.js
+*.map
+
+# Archivos de respaldo y temporales
+*.bak
+*.backup
+
+# Archivos de compilación de TypeScript
+*.js
+*.map
